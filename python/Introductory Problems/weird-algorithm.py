@@ -1,5 +1,7 @@
-from sys import argv
-n = int(argv[1])
+
+n = int(input())
 while(n!=1):
-    print(n)
+    print(n,end=' ')
     n = n*3+1 if n%2 else n>>1
+
+print(n,end=' ')
