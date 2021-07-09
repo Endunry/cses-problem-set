@@ -3,8 +3,8 @@
 
 int main(){
     int n;
-    char s[300000];
+    char s[30];
     scanf("%d",&n);
     scanf("%s",s);
-    printf("%d",sizeof(s));
+    printf("%s",*s));
 }
