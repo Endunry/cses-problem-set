@@ -6,5 +6,5 @@ int main(){
     char s[30];
     scanf("%d",&n);
     scanf("%s",s);
-    printf("%s",*s));
+    printf("%s",*s);
 }
