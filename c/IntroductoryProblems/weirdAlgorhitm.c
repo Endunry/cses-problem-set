@@ -6,6 +6,5 @@ int main(){
 
     scanf("%d",&n);
     printf("*%d\n",n);
-    printf("*%d\n",*n);
     printf("*%d\n",&n);
 }
