@@ -15,5 +15,5 @@ int main(){
     }
 
 
-    printf("\n");
+    printf("%d\n",n);
 }
