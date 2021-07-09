@@ -7,7 +7,7 @@ int main(){
 
 
     while(n!=1){
-        printf("%d "n);
+        printf("%d ",n);
         if(n%2)n = n*2+3;
         else n << 1;
     }
