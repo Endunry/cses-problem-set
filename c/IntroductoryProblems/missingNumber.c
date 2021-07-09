@@ -5,5 +5,5 @@ int main(){
     char *s;
     scanf("%d",&n);
     scanf("%s",s);
-    printf("%s",s);
+    printf("%s",*s);
 }
