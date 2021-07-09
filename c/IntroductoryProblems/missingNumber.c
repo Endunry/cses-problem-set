@@ -5,5 +5,5 @@ int main(){
     char s[300000];
     scanf("%d",&n);
     scanf("%s",s);
-    printf("%s\n",s);
+    printf("%s\n",*s);
 }
