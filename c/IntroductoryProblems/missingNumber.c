@@ -6,7 +6,7 @@
 int main(){
     int n;
     char *s = malloc(MAX);
-    if(name == NULL){
+    if(s == NULL){
         printf("No Memory left\n");
         return 1;
     }
