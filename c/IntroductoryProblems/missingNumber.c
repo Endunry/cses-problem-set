@@ -10,7 +10,7 @@ int main(){
         printf("No Memory left\n");
         return 1;
     }
-    scanf("%d",&n);
+    // scanf("%d",&n);
     fgets(s,MAX,stdin);
     printf("%s",s);
 }
